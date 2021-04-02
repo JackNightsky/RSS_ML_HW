@@ -1,5 +1,5 @@
-# RSS_ML_HW
+# ML_Intro_2021Q1
 
 Hello!
 
-My home work done! =)
+This is my path in course [The Rolling Scopes School](https://rs.school/index.html) [ML Intro](https://rs.school/machine-learning/).
